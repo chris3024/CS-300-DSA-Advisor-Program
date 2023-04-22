@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/chris3024/CS:300/ProjectTwo/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/ABCU_Program.dir/main.cpp.o -c /home/chris3024/CS:300/ProjectTwo/main.cpp",
-  "file": "/home/chris3024/CS:300/ProjectTwo/main.cpp"
-}
-]

@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/ABCU_Program.dir/main.cpp.o -o ABCU_Program 
